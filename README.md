@@ -1,7 +1,12 @@
 # Interfaces-Usuário-Máquina-UERJ
 Objetivo final: Criar um emoj  que interage com usuário e maquina com arduino e sistema local web e uma camera para o reconhecimento facial 
 
+Site da Disciplina(https://sites.google.com/site/aulastien/aulastien-191/intusumaq191)
+
 # Grupo Led
+
+Site criado pelo grupo com o objetivo de ser avaliado (https://sites.google.com/view/iumled/home)
+
 
 Repositório do projeto de representação de Emoticons da disciplina Interfaces Usuário Máquina.
 
